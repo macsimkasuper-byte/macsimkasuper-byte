@@ -14,7 +14,7 @@
 ## Повышение квалификации:
 - В 2025 году прошел программу курса «Тестирование ПО с нуля. Теория + практика. Уровень BASIC». [Ссылка на сертификат](https://stepik.org/cert/2989086) .
 
-## Стек
+## Инструменты
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
